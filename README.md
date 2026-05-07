@@ -42,7 +42,7 @@ A full-stack time tracking application I am currently building, with an emphasis
 **Stack and tools:**
 - Frontend prototyping with Vercel v0
 - Implementation and iteration using Claude Code
-- [Add your specific framework, database, and hosting choices here]
+- Next.js, Node.js, React, TailwindCSS, JIRA, AWS, S3, CDN, Microsoft SQL
 
 **Skills demonstrated:**
 - Full-stack web development end to end
